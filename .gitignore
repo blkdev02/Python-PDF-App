@@ -1,0 +1,6 @@
+*.pyc
+*.toc
+.pkg
+build
+__pycache__
+*.spec
